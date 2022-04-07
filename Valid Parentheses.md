@@ -1,4 +1,4 @@
-# Two Sum
+# Valid Parentheses
 
 - Problem: https://leetcode.com/problems/valid-parentheses/
 - Level: Easy
