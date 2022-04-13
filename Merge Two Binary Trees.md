@@ -5,7 +5,7 @@
 
 ### Explanation
 
-With binary tree, we can use tree traversal methods to walk through all nodes of two trees accordingly and merge them together, also adding nulibility check to avoid `nil` node.
+With binary tree, we can use tree traversal methods to walk through all nodes of two trees accordingly and merge them together, also adding nullability check to avoid using `nil` node.
 
 ### Code
 
