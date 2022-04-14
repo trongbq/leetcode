@@ -1,4 +1,4 @@
-# Merge Two Sorted Lists
+# Merge Two Binary Trees
 
 - Problem: https://leetcode.com/problems/merge-two-binary-trees/
 - Level: Easy
